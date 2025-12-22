@@ -62,4 +62,12 @@
 |(Dimensionality Reduction) کاهش بعد|❌|
 |(Feature Selection) انتخاب ویژگی|❌|
 
+## افراد گروه:
+
 </div>
+
+- [Erfan Sharafi](https://github.com/Erfanabi)
+
+- Aida Ghaderi
+
+- [Amir Vakilzadeh](https://github.com/amir-v-z)
