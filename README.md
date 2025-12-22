@@ -62,7 +62,7 @@
 |(Dimensionality Reduction) کاهش بعد|❌|
 |(Feature Selection) انتخاب ویژگی|❌|
 
-## افراد گروه:
+## اعضا گروه:
 
 </div>
 
