@@ -42,8 +42,9 @@
     - پر کردن مقادیر گمشده در ستون CampaignChannel
     - بررسی نهایی Missing Values
     - رسم باکس‌پلات برای 3 ستون عددی که داده پرت داشتند
-* __تجسم ویژگی های عددی (Visualization of Numerical Features)__
-    - رسم نمودار های Boxplot, Histogram, KDE, Stacked bar
+* __تجسم ویژگی ها (Visualization of Features)__
+    - برای ستون های عددی رسم نمودار های Boxplot, Histogram, QQ-plot, KDE, Stacked bar
+    - برای ستون های غیر عددی رسم نمودار های Frequency Bar Chart, Grouped Bar Chart, Normalized Stacked Bar Chart
 
 ## اعضا گروه:
 
